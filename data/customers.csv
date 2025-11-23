@@ -1,0 +1,19 @@
+id,name,phone,email,address,type
+CUS-001,Nguyễn Văn An,0901234567,nva@gmail.com,123 Lê Lợi Q1 TPHCM,RETAIL
+CUS-002,Trần Thị Bình,0912345678,ttb@company.com,456 Nguyễn Huệ Q1 TPHCM,WHOLESALE
+CUS-003,Lê Văn Cường,0923456789,lvc@gmail.com,789 Trần Hưng Đạo Q5 TPHCM,RETAIL
+CUS-004,Phạm Thị Dung,0934567890,ptd@gmail.com,321 Hai Bà Trưng Q3 TPHCM,RETAIL
+CUS-005,Hoàng Văn Em,0945678901,hve@company.com,654 Võ Văn Tần Q3 TPHCM,WHOLESALE
+CUS-006,Vũ Thị Phương,0956789012,vtp@gmail.com,987 Phan Xích Long PNhu,RETAIL
+CUS-007,Đỗ Văn Giang,0967890123,dvg@gmail.com,147 Cách Mạng Tháng 8 Q10,RETAIL
+CUS-008,Mai Thị Hoa,0978901234,mth@company.com,258 Điện Biên Phủ Q10,WHOLESALE
+CUS-009,Bùi Văn Ích,0989012345,bvi@gmail.com,369 Lý Thường Kiệt Q10,RETAIL
+CUS-010,Đặng Thị Kim,0990123456,dtk@gmail.com,741 Ba Tháng Hai Q10,RETAIL
+CUS-011,Ngô Văn Long,0901122334,nvl@company.com,852 Nguyễn Thị Minh Khai Q1,WHOLESALE
+CUS-012,Trương Thị Mai,0912233445,ttm@gmail.com,963 Pasteur Q1,RETAIL
+CUS-013,Lý Văn Nam,0923344556,lvn@gmail.com,159 Lê Duẩn Q1,RETAIL
+CUS-014,Phan Thị Oanh,0934455667,pto@company.com,357 Đinh Tiên Hoàng Q1,WHOLESALE
+CUS-015,Võ Văn Phúc,0945566778,vvp@gmail.com,486 Tôn Đức Thắng Q1,RETAIL
+CUS-016,Trịnh Thị Quỳnh,0956677889,ttq@gmail.com,624 Võ Thị Sáu Q3,RETAIL
+CUS-017,Hồ Văn Sơn,0967788990,hvs@company.com,735 Nguyễn Đình Chiểu Q3,WHOLESALE
+CUS-018,Dương Thị Tâm,0978899001,dtt@gmail.com,846 Trần Quốc Toản Q3,RETAIL
