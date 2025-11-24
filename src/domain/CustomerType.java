@@ -1,4 +1,6 @@
 package domain;
 
-public class CustomerType {
+public enum CustomerType {
+    RETAIL,      // Khách lẻ
+    WHOLESALE    // Khách sỉ
 }
