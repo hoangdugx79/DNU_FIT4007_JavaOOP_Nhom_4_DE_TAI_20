@@ -38,9 +38,9 @@ public class Main {
             File directory = new File(dirName);
             if (!directory.exists()) {
                 if (directory.mkdir()) {
-                    System.out.println("   ✅ Đã tạo thư mục: " + dirName + "/");
+                    System.out.println(" Đã tạo thư mục: " + dirName + "/");
                 } else {
-                    System.err.println("   ⚠️  Không thể tạo thư mục: " + dirName + "/");
+                    System.err.println(" Không thể tạo thư mục: " + dirName + "/");
                 }
             } else {
                 System.out.println("   ✓ Thư mục đã tồn tại: " + dirName + "/");
@@ -56,8 +56,8 @@ public class Main {
         LocalDateTime now = LocalDateTime.now();
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
         System.out.println("\n" + "━".repeat(85));
-        System.out.println("🛑 Thoát hệ thống lúc: " + now.format(formatter));
-        System.out.println("👋 Hẹn gặp lại!");
+        System.out.println("Thoát hệ thống lúc: " + now.format(formatter));
+        System.out.println("Hẹn gặp lại!");
     }
 
     /**
@@ -65,7 +65,7 @@ public class Main {
      */
     private static void handleFatalError(Exception e) {
         System.err.println("\n" + "═".repeat(85));
-        System.err.println("❌ LỖI NGHIÊM TRỌNG - HỆ THỐNG KHÔNG THỂ KHỞI ĐỘNG");
+        System.err.println("LỖI NGHIÊM TRỌNG - HỆ THỐNG KHÔNG THỂ KHỞI ĐỘNG");
         System.err.println("═".repeat(85));
         System.err.println("Lỗi: " + e.getMessage());
         System.err.println("\nChi tiết:");
