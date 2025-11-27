@@ -4,8 +4,6 @@
 
 Hệ thống quản lý kho xuất nhập hàng là ứng dụng Java Console Application giúp quản lý hoạt động nhập xuất hàng hóa trong kho, bao gồm quản lý sản phẩm, nhà cung cấp, khách hàng, phiếu nhập, phiếu xuất, kiểm kê kho và báo cáo thống kê.
 
-**Trạng thái dự án:** Hoàn thành 95%
-
 **Công nghệ:** Java OOP, CSV File Storage, iText PDF Library
 
 ## Mục lục
@@ -248,4 +246,5 @@ Order (abstract)
 
 **Phiên bản:** 1.0.0  
 **Ngày:** 10/11/2025
+
 
